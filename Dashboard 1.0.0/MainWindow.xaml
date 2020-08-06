@@ -1,0 +1,63 @@
+﻿<Window x:Class="Dashboard_1._0._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Dashboard_1._0._0"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1600" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+    <Grid>
+        <Grid VerticalAlignment="Top" Height="30" Background="#E94340" MouseDown="Grid_MouseDown" />
+        <Grid Margin="0 30 0 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <ListView Margin="10 50" x:Name="LeftMenu" SelectionChanged="LeftMenu_SelectionChanged">
+                    <ListViewItem Foreground="White" Background="#E94340" Margin="0 10">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="ViewDashboard" Width="25" Height="25" Margin="10 0" />
+                            <TextBlock Text="Dashboard" VerticalAlignment="Center"  FontSize="16"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Foreground="Gray">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="User" Width="25" Height="25" Margin="10 0" />
+                            <TextBlock Text="User Profile" VerticalAlignment="Center"  FontSize="16"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Foreground="gray" Margin="0 10">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="ClipboardOutline" Width="25" Height="25" Margin="10 0" />
+                            <TextBlock Text="Table List" VerticalAlignment="Center"  FontSize="16"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Foreground="gray">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="ClipboardMultipleOutline" Width="25" Height="25" Margin="10 0" />
+                            <TextBlock Text="Typography" VerticalAlignment="Center"  FontSize="16"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Foreground="gray" Margin="0 10">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="BubbleChart" Width="25" Height="25" Margin="10 0" />
+                            <TextBlock Text="Icons" VerticalAlignment="Center"  FontSize="16"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Foreground="gray">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Bell" Width="25" Height="25" Margin="10 0" />
+                            <TextBlock Text="Notifications" VerticalAlignment="Center"  FontSize="16"/>
+                        </StackPanel>
+                    </ListViewItem>
+
+                </ListView>
+            </Grid>
+            <Grid Grid.Column="1" x:Name="RenderGrid">
+                
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

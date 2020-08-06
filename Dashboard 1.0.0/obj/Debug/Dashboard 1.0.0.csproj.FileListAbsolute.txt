@@ -1,0 +1,34 @@
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\Dashboard 1.0.0.exe.config
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\Dashboard 1.0.0.exe
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\Dashboard 1.0.0.pdb
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0.csprojAssemblyReference.cache
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\MainWindow.g.cs
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\App.g.cs
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0_MarkupCompile.cache
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0_MarkupCompile.lref
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\MainWindow.baml
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0.g.resources
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard_1._0._0.Properties.Resources.resources
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0.csproj.GenerateResource.cache
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0.exe
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0.pdb
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\LiveCharts.dll
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\MaterialDesignColors.dll
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\LiveCharts.pdb
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\LiveCharts.xml
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard 1.0.0.csproj.CopyComplete
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\App.baml
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard.g.cs
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\Dashboard.baml
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\InstaSS\MainWindow.g.cs
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\InstaSS\MainWindow.baml
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\InstaSS\Dashboard.g.cs
+C:\Users\jan11\source\repos\Dashboard 1.0.0\Dashboard 1.0.0\obj\Debug\InstaSS\Dashboard.baml
